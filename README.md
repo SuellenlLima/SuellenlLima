@@ -1,4 +1,4 @@
-Estudande de ADS e atuo como QA com foco em API Rest. O objetivo desse repositório é guardar os projetos pessoais que fiz para finalidade de estudo.
+Estudante de ADS e atuo como QA com foco em API Rest. O objetivo desse repositório é guardar os projetos pessoais que fiz para finalidade de estudo.
 
 #### Me encontre aqui:
 
