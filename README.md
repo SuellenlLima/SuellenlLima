@@ -4,7 +4,7 @@ Estudande de ADS e atuo como QA com foco em API Rest. O objetivo desse repositó
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suellenllima/)
 
-#### Tecnologias que eu uso no meu dia
+#### Tecnologias que eu uso no meu dia a dia
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
